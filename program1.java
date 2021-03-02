@@ -11,6 +11,7 @@ public class program1 {
 				System.out.print("*");
 			}
 			System.out.println();
+			System.out.print("Hello");
 		}
 		
 	
